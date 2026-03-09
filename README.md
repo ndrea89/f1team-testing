@@ -10,7 +10,6 @@ Dalam diagram ini, saya mengintegrasikan beberapa elemen teknis tingkat lanjut:
 * **Error Boundary Events:** Menangani ketidakcocokan data (*correlation gap*) antara simulasi CFD dan tes Wind Tunnel.
 * **Signal Events:** Mekanisme "Red Flag" untuk penghentian proses instan saat terjadi kendali teknis di lintasan.
 * **Conditional Flows:** Validasi otomatis berdasarkan parameter fisik (Drag force & Downforce thresholds).
-* **DMN (Decision Model and Notation):** Tabel keputusan untuk menentukan kelayakan komponen sebelum diproduksi massal.
 
 ## 🔍 QA & Analytical Perspective
 Mengapa alur ini dirancang seperti ini?
