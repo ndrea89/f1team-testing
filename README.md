@@ -23,4 +23,5 @@ Mengapa alur ini dirancang seperti ini?
 * `/docs`: Penjelasan detail mengenai skenario testing.
 
 ---
-*Created by ATitanni - Senior QA Engineer & Aspiring Business Analyst*
+*Created by ATitanni, March 9, 2026*
+**Senior QA Engineer & Aspiring Business Analyst**
